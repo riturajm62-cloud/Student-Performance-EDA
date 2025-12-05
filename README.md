@@ -93,15 +93,17 @@ This Student Performance EDA reveals that learning outcomes are influenced not j
 
 With data-driven interventions, education systems can improve equality, efficiency, and learning quality. This study shows how EDA can guide "evidence-based policy decisions" for large-scale societal impact.
 
-### 👨‍🎓 Author : RITU RAJ
+# Access the Analysis:
+PDF Report 1. https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/StudentsPerformance.ods
+
+          2. https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/Descriptive%20Statistics%20and%20Observation-%20Students%20Performance%20EDA_%20(RITU%20RAJ).pdf
+# Open With: Google Sheets
+
+# 👨‍🎓 Author : RITU RAJ
  📍 Data Science Student | BS IIT Madras   
 📌 Skills: Data Analytics | Python | SQL | Statistics |Google sheet|Excel|R 
 🔗 LinkedIn:  https://www.linkedin.com/in/ritu-raj-ba0bb7383/
  
-# Access the Analysis:
-PDF Report 1. https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/StudentsPerformance.ods
-            2. https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/Descriptive%20Statistics%20and%20Observation-%20Students%20Performance%20EDA_%20(RITU%20RAJ).pdf
-# Open With: Google Sheets
 
 
 
