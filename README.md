@@ -62,29 +62,19 @@ Most students score around the mean, but some low and high outliers exist.
 5.Deploy data monitoring systems to track student progress annually.
 
 ## 🖼️ Visualizations
+<img width="780" height="481" alt="Writing_score_histogram png" src="https://github.com/user-attachments/assets/bc065678-c9e1-465a-b8d9-1c7f5bbe43d5" />
+<img width="567" height="286" alt="stats_summary png" src="https://github.com/user-attachments/assets/a9d4d7ba-74c5-4ddc-ba04-e74620b591a7" />
+<img width="1299" height="473" alt="Screenshot 2025-11-15 175647" src="https://github.com/user-attachments/assets/974d5ebc-13c2-4019-aacc-81ed59dd3e2f" />
+<img width="776" height="479" alt="Scatter_plot png" src="https://github.com/user-attachments/assets/ed8e33a0-8e2e-4f43-8fc0-06dd78c3e616" />
+<img width="829" height="484" alt="Reading_score_histogram png" src="https://github.com/user-attachments/assets/d6c3fe99-c6e3-49af-93a6-d190909cfe06" />
+<img width="783" height="469" alt="Math_score_histogram png" src="https://github.com/user-attachments/assets/d25548f9-3975-4dd9-ba3f-226beb6f1343" />
+<img width="423" height="221" alt="interpretation png" src="https://github.com/user-attachments/assets/e799d249-1c15-484c-a132-f2b99c33e857" />
+<img width="788" height="459" alt="Box_plot png" src="https://github.com/user-attachments/assets/7edbd60e-e068-4aea-9492-76e80431a6e2" />
+<img width="765" height="471" alt="Avg_score_by_test_prepration png" src="https://github.com/user-attachments/assets/07e9261c-9cc2-46c4-a998-eb20bb4d4b61" />
 
-1.Score Comparison by Lunch Type  
-https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/Avg_score_by_lunch_type.png
+## 🏁 Conclusion<img width="773" height="471" alt="Avg_score_by_lunch_type" src="https://github.com/user-attachments/assets/c4c72322-31a3-44c9-855e-d96e6b5df5ba" />
 
-2.Test Preparation Effect on Scores  
-https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/Avg_score_by_test_prepration.png.png
 
-3.Box Plot of Scores 
-https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/Box_plot.png.png
-4.Histogram of Math Score
-https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/Math_score_histogram.png.png
-5.Reading Score Histogram
-https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/Reading_score_histogram.png.png
-6.Scatter Plot of Scores
-https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/Scatter_plot.png.png
-7.Histogram of Writing Score
-https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/Writing_score_histogram.png.png
-8.Interpretation
-https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/interpretation.png.png
-9.Stats Summary
-https://github.com/riturajm62-cloud/Student-Performance-EDA/blob/main/stats_summary.png.png
-
-## 🏁 Conclusion
 This Student Performance EDA reveals that learning outcomes are influenced not just by academic ability, but by access to resources, nutritional support, and preparatory interventions. The analysis highlights that:
 - "Structured test preparation" consistently improves scores across subjects.
 - "Socioeconomic indicators", reflected through lunch categories, correlate with performance gaps.
